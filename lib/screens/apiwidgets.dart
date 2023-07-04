@@ -6,8 +6,8 @@ import 'package:testriverpod/drawer.dart';
 
 import '../apicalls/users.dart';
 
-class MyWidget extends ConsumerWidget {
-  const MyWidget({super.key});
+class MyWidget1 extends ConsumerWidget {
+  const MyWidget1({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
